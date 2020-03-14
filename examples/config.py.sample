@@ -1,0 +1,11 @@
+# coding=utf-8
+
+API_TOKEN = "YOUR_API_TOKEN"
+
+SC_API_KEY_SEARCH = ""  # for search
+SC_API_KEY_REVERSE_GEO = ""  # for reverse_geo
+SC_API_KEY_DIRECTION = ""  # for direction
+SC_API_KEY_NO_TRAFFIC_DIRECTION = ""  # for no_traffic_direction
+SC_API_KEY_DISTANCE_MATRIX = ""  # for distance_matrix
+SC_API_KEY_NO_TRAFFIC_DISTANCE_MATRIX = ""  # for no_traffic_distance_matrix
+SC_API_KEY_MAP_MATCHING = ""  # for map_matching
